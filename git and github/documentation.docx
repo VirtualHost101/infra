@@ -5,3 +5,10 @@ Local repo and remote repo
 Destory Recovery (during server down)
 sub repositry ( multiple projects under 1 project)
 working directory ( workspace), staging area and Local repo
+Learning about branching, Default branching is Master branch
+git branch (list of local branch)
+git branch -a (local and remote)
+git checkout -b branch_name (create and checkout)
+git merge branch_name
+git branch -d branch_name (soft delete)
+git branch -D brach_name (hard delete)
