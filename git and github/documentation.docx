@@ -1,0 +1,7 @@
+Version control system
+RCA = Root Cause analysis
+2 Types of Version controling a. centralized Version control and b, Distributed Version controling
+Local repo and remote repo
+Destory Recovery (during server down)
+sub repositry ( multiple projects under 1 project)
+working directory ( workspace), staging area and Local repo
