@@ -12,6 +12,3 @@ git checkout -b branch_name (create and checkout)
 git merge branch_name
 git branch -d branch_name (soft delete)
 git branch -D brach_name (hard delete)
-token 
-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
-***
