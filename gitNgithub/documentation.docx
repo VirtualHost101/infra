@@ -1,17 +1,35 @@
 Creating a repo
-press + NEW
+press + NEW ¡° on the top Right coner ¡°
+
+
+
+Type Repository Name " Infra "
+Click public
+Press Create Repository
 
 
 
 
-Name the Repo " Infra "
-Press Create a Repo
+In Local
+ 
+Go to the project directory 
+Example ¡° C:\Users\Satyatej\Desktop\project¡±
 
 
-In Local type
+Open VS-Code or any command prompt
 
-git remote add origin https://github.com/VirtualHost101/infra1.git
+git remote add origin https://github.com/VirtualHost101/infra.git
+
+
+
+
 git branch -M master
+
+
+
 git push -u origin master
+
+
+
 
 ** Token saved seperate **
